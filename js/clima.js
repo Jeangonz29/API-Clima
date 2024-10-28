@@ -4,7 +4,7 @@ const formulario = document.querySelector('#formulario')
 
 //openweathermap Proporciona datos meteorologicos atraves de API
 //lista de caracteres en html
-//spinner the spinner css loadars
+//spinner: the spinner css loadars
 //puedo detectar el bton el click con submit, o click, pero tambien con el load acontinuacion
 //load solo se utiliza con window, (window es para detectar el navegador,) DOMcontetLoad con document
 
