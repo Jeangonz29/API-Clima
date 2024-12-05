@@ -6,7 +6,7 @@
 <p> Proporciona datos meteorológicos globales a través de API , incluidos datos meteorológicos actuales, pronósticos , previsiones y datos meteorológicos históricos. </p>
 <br>
 
-> Trabajamos con HTML5, CSS3 y JavaScript
+> Trabajamos con HTML5, CSS3 y JavaScript 
 <br>
 <br>
   <code><img width="8%" src="https://github.com/user-attachments/assets/4737b548-3ae7-415c-a34a-a113c678b83b"></code> <!--HTML-->
